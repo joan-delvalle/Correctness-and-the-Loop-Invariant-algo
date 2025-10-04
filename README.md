@@ -1,1 +1,1 @@
-# Correctness-and-the-Loop-Invariant-algo
+# Correctness-and-the-Loop-Invariant-algo This program sorts an array using **insertion sort**, which takes each element and places it in its correct position among the elements before it. After sorting, it prints the entire array in order.
